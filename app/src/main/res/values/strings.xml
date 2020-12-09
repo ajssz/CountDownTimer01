@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CountDownZ</string>
+    <string name="tv01Text">Input number to countdown</string>
+    <string name="tv01Text01"> Counting Down ...</string>
+    <string name="tv01Text02"> Press Start to continue. </string>
+    <string name="swSound">Sound</string>
+    <string name="swFlash">Flash</string>
+    <string name="swVibrate">Vibrate</string>
+    <string name="btnStart">Start</string>
+    <string name="btnCancel">cancel</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7609393969532665/2773501831</string>
+    <string name="AppID">ca-app-pub-7609393969532665~5522938192</string>
+</resources>
+
